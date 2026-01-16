@@ -8,11 +8,6 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=I-ROK123&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-ROK123&layout=compact&theme=radical&hide_border=true" height="165"/>
-</p>
+![Daniel's GitHub stats](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=I-ROK123&show_icons=true&theme=radical)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=I-ROK123&theme=radical&hide_border=true"/>
-</p>
+![Top Languages](https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=I-ROK123&layout=compact&theme=radical)
