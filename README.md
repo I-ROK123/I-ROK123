@@ -6,4 +6,5 @@
 😮‍💨 Strong Believer that you can be a pro in anything as long as you put in hard work<br/>
 🤦‍♂️ Drawback I am a perfectionist which oftenly leads to disappointment but I am working on it<br/>
 
-[![Daniels's GitHub stats](https://github-readme-stats.vercel.app/api?username=I-ROK123&show_icons=true&theme=radical)](https://github.com/I-ROK123/github-readme-stats)
+[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=I-ROK123&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/I-ROK123)
+
